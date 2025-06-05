@@ -261,44 +261,44 @@ export const projects = [
     github: "https://github.com/shreyashtripathi18/Krypt-Marketplace",
     webapp: "https://krypt-marketplace-gamma.vercel.app/",
   },
-  {
-    id: 2,
-    title: "Trip Booking Application",
-    description:
-      "A full-stack MERN application to book trips with user authentication, payment integration, and dynamic itinerary management. Focuses on providing a seamless travel planning experience.",
-    // image: tripBookingLogo,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "JavaScript"],
-    github: "#",
-    webapp: "#",
-  },
-  {
-    id: 3,
-    title: "Motive Muscle Gym Application",
-    description:
-      "A gym management application focusing on workout tracking, diet plans, and progress monitoring. Built with React.js for an interactive user interface.",
-    // image: motiveMuscleLogo,
-    tags: ["React JS", "JavaScript", "CSS"],
-    github: "https://github.com/shreyashtripathi18/MotiveMuscles",
-    webapp: "#",
-  },
-  {
-    id: 5,
-    title: "CC Mini Party",
-    description:
-      "An event management web application designed for organizing and tracking party invitations, RSVPs, and schedules. Developed using React.js and Node.js backend.",
-    // image: ccMiniPartyLogo,
-    tags: ["React JS", "Node.js", "JavaScript", "Express"],
-    github: "https://github.com/shreyashtripathi18/CC-Mini-Party",
-    webapp: "#",
-  },
-  {
-    id: 6,
-    title: "Career Corps",
-    description:
-      "A career guidance platform providing users with resources, internship listings, and project collaboration opportunities. Built with React.js and a Node.js backend.",
-    // image: careerCorpsLogo,
-    tags: ["React JS", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/shreyashtripathi18/CareerCrops",
-    webapp: "#",
-  },
+  // {
+  //   id: 2,
+  //   title: "Trip Booking Application",
+  //   description:
+  //     "A full-stack MERN application to book trips with user authentication, payment integration, and dynamic itinerary management. Focuses on providing a seamless travel planning experience.",
+  //   // image: tripBookingLogo,
+  //   tags: ["React JS", "Node.js", "MongoDB", "Express", "JavaScript"],
+  //   github: "#",
+  //   webapp: "#",
+  // },
+  // {
+  //   id: 3,
+  //   title: "Motive Muscle Gym Application",
+  //   description:
+  //     "A gym management application focusing on workout tracking, diet plans, and progress monitoring. Built with React.js for an interactive user interface.",
+  //   // image: motiveMuscleLogo,
+  //   tags: ["React JS", "JavaScript", "CSS"],
+  //   github: "https://github.com/shreyashtripathi18/MotiveMuscles",
+  //   webapp: "#",
+  // },
+  // {
+  //   id: 5,
+  //   title: "CC Mini Party",
+  //   description:
+  //     "An event management web application designed for organizing and tracking party invitations, RSVPs, and schedules. Developed using React.js and Node.js backend.",
+  //   // image: ccMiniPartyLogo,
+  //   tags: ["React JS", "Node.js", "JavaScript", "Express"],
+  //   github: "https://github.com/shreyashtripathi18/CC-Mini-Party",
+  //   webapp: "#",
+  // },
+  // {
+  //   id: 6,
+  //   title: "Career Corps",
+  //   description:
+  //     "A career guidance platform providing users with resources, internship listings, and project collaboration opportunities. Built with React.js and a Node.js backend.",
+  //   // image: careerCorpsLogo,
+  //   tags: ["React JS", "Node.js", "Express", "MongoDB"],
+  //   github: "https://github.com/shreyashtripathi18/CareerCrops",
+  //   webapp: "#",
+  // },
 ];
