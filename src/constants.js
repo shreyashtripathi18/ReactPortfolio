@@ -36,6 +36,7 @@ import rpsLogo from "./assets/education_logo/rps_logo.png";
 import mvmLogo from "./assets/education_logo/mvm_logo.png";
 
 // Project Section Logo's
+import kryptMarketplaceLogo from "./assets/work_logo/krypt_marketplace.png";
 
 export const SkillsInfo = [
   {
@@ -255,8 +256,7 @@ export const projects = [
     title: "Krypt Marketplace",
     description:
       "A React.js dashboard displaying real-time cryptocurrency prices, trends, and market data using public APIs. Includes charts and filters for a customized user experience.",
-    image:
-      "https://private-user-images.githubusercontent.com/76698429/451988415-e851416f-4fe3-4ac1-a6e9-5f246c7569fe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDQwMjAsIm5iZiI6MTc0OTE0MzcyMCwicGF0aCI6Ii83NjY5ODQyOS80NTE5ODg0MTUtZTg1MTQxNmYtNGZlMy00YWMxLWE2ZTktNWYyNDZjNzU2OWZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE3MTUyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0MGMxZDRlZGVjMWU1Y2JjZTNiYzcyZTEzZDgxNzEwODZjY2Q1OTMzMDQ3MmE4YWM1MmM4MWQ3NjJiMzM5ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ce9hIrRUN0uj0LEof155SVHrfmCrMFZkvlA0UfKMTI8",
+    image: kryptMarketplaceLogo,
     tags: ["React JS", "API", "JavaScript", "CSS"],
     github: "https://github.com/shreyashtripathi18/Krypt-Marketplace",
     webapp: "https://krypt-marketplace-gamma.vercel.app/",
