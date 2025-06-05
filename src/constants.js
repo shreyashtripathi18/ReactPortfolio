@@ -25,7 +25,7 @@ import figmaLogo from "./assets/tech_logo/figma.png";
 import vercelLogo from "./assets/tech_logo/vercel.png";
 
 // Experience Section Logo's
-import CareerCorpslogo from "./assets/company_logo/CareerCorps_logo.png";
+import CareerCorpslogo from "./assets/company_logo/CareerCorps_Logo.png";
 import analyzeInfotechlogo from "./assets/company_logo/analyze_infotech_logo.png";
 import techOrbitalsLogo from "./assets/company_logo/tech_orbitals_logo.png";
 
@@ -241,33 +241,34 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Solidity Crypto Sending Platform",
+    title: "Krypt : Crypto Sending Platform",
     description:
       "A decentralized application built with Solidity and React.js allowing users to send cryptocurrencies securely on the Ethereum blockchain. Features smart contract integration and user-friendly UI.",
-    // image: solidityCryptoLogo,
+    image:
+      "https://camo.githubusercontent.com/39edaf7d56a57676aa2be93f24e1f796f8097e8530ff25fca73ded3e935710bd/68747470733a2f2f692e6962622e636f2f44564634744e572f696d6167652e706e67",
     tags: ["Solidity", "React JS", "Ethereum", "Blockchain"],
-    github:
-      "https://github.com/shreyashtripathi18/Solidity-Crypto-Sending-Platform",
-    webapp: "#",
+    github: "https://github.com/shreyashtripathi18/Krypt",
+    webapp: "https://krypt-bay.vercel.app/",
   },
   {
     id: 1,
+    title: "Krypt Marketplace",
+    description:
+      "A React.js dashboard displaying real-time cryptocurrency prices, trends, and market data using public APIs. Includes charts and filters for a customized user experience.",
+    image:
+      "https://private-user-images.githubusercontent.com/76698429/451988415-e851416f-4fe3-4ac1-a6e9-5f246c7569fe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDQwMjAsIm5iZiI6MTc0OTE0MzcyMCwicGF0aCI6Ii83NjY5ODQyOS80NTE5ODg0MTUtZTg1MTQxNmYtNGZlMy00YWMxLWE2ZTktNWYyNDZjNzU2OWZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE3MTUyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0MGMxZDRlZGVjMWU1Y2JjZTNiYzcyZTEzZDgxNzEwODZjY2Q1OTMzMDQ3MmE4YWM1MmM4MWQ3NjJiMzM5ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ce9hIrRUN0uj0LEof155SVHrfmCrMFZkvlA0UfKMTI8",
+    tags: ["React JS", "API", "JavaScript", "CSS"],
+    github: "https://github.com/shreyashtripathi18/Krypt-Marketplace",
+    webapp: "https://krypt-marketplace-gamma.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Trip Booking Application",
     description:
       "A full-stack MERN application to book trips with user authentication, payment integration, and dynamic itinerary management. Focuses on providing a seamless travel planning experience.",
     // image: tripBookingLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "JavaScript"],
-    github: "https://github.com/shreyashtripathi18/Trip-Booking-App",
-    webapp: "#",
-  },
-  {
-    id: 2,
-    title: "Cryptocurrency Status Dashboard",
-    description:
-      "A React.js dashboard displaying real-time cryptocurrency prices, trends, and market data using public APIs. Includes charts and filters for a customized user experience.",
-    // image: cryptoDashboardLogo,
-    tags: ["React JS", "API", "JavaScript", "CSS"],
-    github: "https://github.com/shreyashtripathi18/Crypto-Status-Dashboard",
+    github: "#",
     webapp: "#",
   },
   {
@@ -277,17 +278,7 @@ export const projects = [
       "A gym management application focusing on workout tracking, diet plans, and progress monitoring. Built with React.js for an interactive user interface.",
     // image: motiveMuscleLogo,
     tags: ["React JS", "JavaScript", "CSS"],
-    github: "https://github.com/shreyashtripathi18/Motive-Muscle",
-    webapp: "#",
-  },
-  {
-    id: 4,
-    title: "Krypt Marketplace",
-    description:
-      "A marketplace platform using React.js and blockchain technology to facilitate buying and selling of digital assets with secure smart contract integration.",
-    // image: kryptMarketplaceLogo,
-    tags: ["React JS", "Solidity", "Blockchain", "JavaScript"],
-    github: "https://github.com/shreyashtripathi18/Krypt-Marketplace",
+    github: "https://github.com/shreyashtripathi18/MotiveMuscles",
     webapp: "#",
   },
   {
@@ -307,7 +298,7 @@ export const projects = [
       "A career guidance platform providing users with resources, internship listings, and project collaboration opportunities. Built with React.js and a Node.js backend.",
     // image: careerCorpsLogo,
     tags: ["React JS", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/shreyashtripathi18/Career-Corps",
+    github: "https://github.com/shreyashtripathi18/CareerCrops",
     webapp: "#",
   },
 ];
