@@ -217,7 +217,7 @@ export const education = [
     date: "Sept 2021 - Jul 2024",
     grade: "68%",
     desc: "I completed my Bachelor's degree in Computer Applications (BCA) from Shri Ramswaroop Memorial College of Engineering and Management (SRMCEM), Lucknow. During my time there, I studied a broad range of subjects that strengthened my understanding of computer science and software development. Courses like Data Structures, Algorithms, Web Development, and Database Management Systems provided both theoretical knowledge and practical skills. I also worked on several academic projects that helped me apply these concepts to real-world scenarios. My experience at SRMCEM played a key role in shaping my technical foundation and preparing me for advanced studies in the field.",
-    degree: "Bachelor of Science - BSC (Computer Science)",
+    degree: "Bachelor of Computer Applications - BCA",
   },
   {
     id: 2,
