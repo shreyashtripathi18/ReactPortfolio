@@ -1,6 +1,5 @@
 import React from "react";
 import ReactTypingEffect from "react-typing-effect";
-import Tilt from "react-parallax-tilt";
 import profileImage from "../../assets/ProfilePhoto.png";
 
 const About = () => {
@@ -60,19 +59,11 @@ const About = () => {
         </div>
         {/* Right Side */}
         <div className="md:w-1/2 flex justify-center md:justify-end">
-          <Tilt
-            tiltMaxAngleX={20}
-            tiltMaxAngleY={20}
-            perspective={1000}
-            scale={1.05}
-            transitionSpeed={1000}
-            gyroscope={true}>
             <img
               src={profileImage}
               alt="Shreyash Tripathi"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
-          </Tilt>
         </div>
       </div>
     </section>

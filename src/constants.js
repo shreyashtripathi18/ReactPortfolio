@@ -133,7 +133,7 @@ export const SkillsInfo = [
         name: "IDS",
         logo: "https://img.icons8.com/color/48/000000/security-checked.png",
       },
-    ],
+    ],  
   },
   {
     title: "Ethical Hacking",
